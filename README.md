@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 09/05/2024
+## Register Number: 212223040065
+## Name: R HEMANTH KUMAR 
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
